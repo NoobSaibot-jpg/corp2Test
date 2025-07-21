@@ -1,0 +1,48 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+instance/
+.env
+.env.*
+.DS_Store
+
+# Flask
+*.sqlite3
+*.db
+
+# React/Node
+node_modules/
+build/
+dist/
+coverage/
+.npm/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Misc
+*.bak
+*.swp
+*.tmp
+
+# Test/coverage
+htmlcov/
+.coverage
+.cache/
+
+# Local config
+*.local 
